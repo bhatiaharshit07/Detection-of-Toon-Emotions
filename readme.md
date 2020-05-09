@@ -12,4 +12,4 @@ To run this project you need to install <br>
 9) OpenCV<br>
 10) tqdm<br>
 
-To run this project just clone this repository and run the Jupyter Notebook included in this repository. 
+<h3><p>To run this project just clone this repository and run the Jupyter Notebook included in this repository.</p></h3> 
